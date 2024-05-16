@@ -1,0 +1,23 @@
+body {    
+    background: linear-gradient(90deg, #000000 0%, #ffffff 100%);
+}
+
+.nav-link {
+    color: wheat;
+}
+
+.navbar-nav .nav-link.active {
+color: rgb(255, 190, 105);
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+footer {
+    background: white;
+}
+
+.white {
+    color: white;
+}
